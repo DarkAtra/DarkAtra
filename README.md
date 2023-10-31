@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-[<img src="https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.svg" alt="Stackoverflow" width="160">](https://stackoverflow.com/users/6357653/tommy-schmidt)
+I am a software developer working mainly with web technologies, but from time to time I find some time to modify old video games from my childhood. I recently started writing about it in my blog: https://darkatra.dev/
